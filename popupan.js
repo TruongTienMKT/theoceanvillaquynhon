@@ -1,5 +1,10 @@
 
 	var url_popup = 'https://www.facebook.com/VIE.PropertyInvestment';
+	var url_popup = 'https://www.facebook.com/VIE.PropertyInvestment';
+	var i=Math.floor(Math.random()*3);
+	var urls=["https://www.facebook.com/VIE.PropertyInvestment","https://www.youtube.com/channel/UC2VLl3pnyNwDgL5KklofDig","https://www.facebook.com/Kim.Nguu.0505"];
+	
+	var url_popup = urls[i];
 
       //<![CDATA[
 	
